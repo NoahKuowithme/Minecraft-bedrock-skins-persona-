@@ -1,5 +1,13 @@
-file need to be placed into C:\Users\user\AppData\Roaming\Minecraft Bedrock\premium_cache\skin_packs
-use persona tool encryptor.exe(you will see the terminal)
-paste the path of the file. exp.  C:\Users\user\AppData\Roaming\Minecraft Bedrock\premium_cache\skin_packs\huidsshdhus .
-relaunch the game
-  
+Place the file into the following directory:
+C:\Users\user\AppData\Roaming\Minecraft Bedrock\premium_cache\skin_packs
+
+Run persona tool encryptor.exe.
+A terminal window will open.
+
+In the terminal, paste the full path of the file you placed earlier.
+Example:
+C:\Users\user\AppData\Roaming\Minecraft Bedrock\premium_cache\skin_packs\huidsshdhus
+
+Press Enter to proceed.
+
+Relaunch the game.
