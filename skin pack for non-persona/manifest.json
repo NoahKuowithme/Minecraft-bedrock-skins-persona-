@@ -1,0 +1,31 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§aNoahCoal's §dtexture §c§o§lV10§r§n",
+        "uuid": "de7ce215-63b1-480b-a8cd-269e7d51d434",
+        "version": [
+            1,
+            11,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ],
+        "author": "NoahCoal",
+        "license": "All Rights Reserved",
+        "in_game_author": "NoahCoal"
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "277af8e0-8077-4ff2-9a0f-69b5f2755c01",
+            "version": [
+                1,
+                11,
+                0
+            ]
+        }
+    ]
+}

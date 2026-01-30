@@ -1,0 +1,27 @@
+{
+    "serialize_name":"NoahCoal_2",
+    "localization_name":"NoahCoal_cape2",
+    //
+    //Skin Regester Below
+    //
+    "skins": [
+    //small 
+    {
+      "localization_name": "Mutsumi", 
+      "geometry": "geometry.MarioBrothers.ShyGuy",
+      "texture": "Mutsumi.png",
+      "cape": "Mutsumi_cape.png",
+      "type": "free"
+    },
+    // hat
+    {
+      "localization_name": "Mutsumi2", 
+      "geometry": "geometry.BeachPartySkinPack.ClassyBeachwear",
+      "texture": "Mutsumi2.png",
+      "cape": "Mutsumi_cape2.png",
+      "type": "free"
+    }
+    ]
+}  
+ 
+   

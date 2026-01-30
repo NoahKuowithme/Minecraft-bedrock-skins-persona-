@@ -1,0 +1,787 @@
+{
+  "geometry":"geometry.json",
+  "serialize_name":"NoahCoal_Cape",
+  "localization_name":"NoahCoal",
+
+
+  "skins": [
+    {
+      "localization_name": "三角初華",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "三角初華.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "suisei",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "suisei.png",
+      "cape": "suisei_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "安和 すばる",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "安和 すばる.png",
+      "cape": "安和 すばる_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "井芹 仁菜",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "井芹 仁菜.png",
+      "cape": "井芹 仁菜_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "河原木 桃香",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "河原木 桃香.png",
+      "cape": "河原木 桃香_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "初音",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "初音.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "idk6",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "idk6.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "idk5",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "idk5.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CalCobalt",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "CalCobalt.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "idk4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "idk4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FuyajouRuri",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "FuyajouRuri.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "idk3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "idk3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sendai",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Sendai.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "idk2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "idk2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Topbowlboy",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Topbowlboy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "tomori",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "tomori.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "taki",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "taki.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "soyo",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "soyo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "anon",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "anon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "raana",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "raana.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "欣梅爾",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "欣梅爾.png",
+      "type": "free"
+    },
+     {
+      "localization_name": "費倫",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "費倫.png",
+      "type": "free"
+    },
+     {
+      "localization_name": "芙莉蓮(閉眼)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "芙莉蓮(閉眼).png",
+      "cape": "芙莉蓮(閉眼)_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "idk",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "idk.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "_ArseniyZTV_",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "_ArseniyZTV_.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "limor233",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "limor233.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TheMagmaBoy",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "TheMagmaBoy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hatfessor",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Hatfessor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "hnoq",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "hnoq.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kjo_Coco",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Kjo_Coco.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "INKY__OwO",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "INKY__OwO.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "promlument",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "promlument.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "AsunaIchinoseTR",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "AsunaIchinoseTR.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Allistayrian",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Allistayrian.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Duck",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Duck.png",
+      "cape":"Duck_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "mcpe",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "mcpe.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "gato-bolado-mcpe",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "gato-bolado-mcpe.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Un若葉睦",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Un若葉睦.png",
+      "cape":"Un若葉睦_cape.png",
+      "type": "free"
+    },
+     {
+      "localization_name": "doggy_steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "doggy_steve.png",
+      "type": "free"
+    },
+     {
+      "localization_name": "valliger",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "valliger.png",
+      "type": "free"
+    },
+     {
+      "localization_name": "valliger2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "valliger2.png",
+      "type": "free"
+    },
+     {
+      "localization_name": "valliger3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "valliger3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "steve2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "steve2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "valliger4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "valliger4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cid-Kagenou-Shadow",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Cid-Kagenou-Shadow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "千島愛音",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "千島愛音.png",
+      "cape":"千島愛音_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "喜多郁代",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "喜多郁代.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "廣井菊理",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "廣井菊理.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "後藤一里Bocchi戴墨鏡",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "後藤一里Bocchi戴墨鏡.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "後藤一里Bocchi",
+      "geometry": "geometry.humanoid.customSlim",
+      "cape": "後藤一里Bocchi_cape.png",
+      "texture": "後藤一里Bocchi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "拉芙塔莉雅",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "拉芙塔莉雅.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "祐天寺若麥",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "祐天寺若麥.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "芙莉蓮",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "芙莉蓮.png",
+      "cape": "芙莉蓮_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "芙拉蒂蕾娜·米利杰",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "芙拉蒂蕾娜·米利杰.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "艾莉雅",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "艾莉雅.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "若葉睦",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "若葉睦.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "豐川祥子",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "豐川祥子.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ZeroTwo",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "ZeroTwo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "mita1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "mita1.png",
+      "cape": "mita1_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "mita2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "mita2.png",
+      "cape": "mita2_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "mita3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "mita3.png",
+      "cape": "mita3_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "がうる",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "がうる.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "艾米莉婭",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "艾米莉婭.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "パワー",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "パワー.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "マキマ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "マキマ.png",
+      "cape":"マキマ_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "井之上瀧奈",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "井之上瀧奈.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "錦木千束",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "錦木千束.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "IA",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "IA.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ump45",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "ump45.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "サトノダイヤモンド",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "サトノダイヤモンド.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "そらいサキ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "そらいサキ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ツイン・ターボ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "ツイン・ターボ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "トウカイテイオー",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "トウカイテイオー.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "レミリア・スカーレット",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "レミリア・スカーレット.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "伊吹萃香(作者不一樣)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "伊吹萃香(作者不一樣).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "伊吹萃香",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "伊吹萃香.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "伊樹蔡",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "伊樹蔡.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "優香",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "優香.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "初音未來",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "初音未來.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "博麗靈夢(舊版)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "博麗靈夢(舊版).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "古明地さとり",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "古明地さとり.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "可莉",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "可莉.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "喵帕斯",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "喵帕斯.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "因幡 てゐ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "因幡 てゐ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "天童アリス",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "天童アリス.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "小圓",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "小圓.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "小鳥遊ホシノ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "小鳥遊ホシノ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "尾刃カンナ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "尾刃カンナ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "幽",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "幽.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "彩奈",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "彩奈.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "彌香",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "彌香.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "愛麗絲",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "愛麗絲.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "戀戀",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "戀戀.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "才羽ミドリ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "才羽ミドリ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "才羽モモイ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "才羽モモイ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "春烏拉拉",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "春烏拉拉.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "智乃",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "智乃.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "林克",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "林克.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "柚子",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "柚子.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "水白子",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "水白子.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "橘ヒカリ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "橘ヒカリ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "洩矢 諏訪子",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "洩矢 諏訪子.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "狼師",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "狼師.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "琴葉 茜",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "琴葉 茜.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "瑪莉",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "瑪莉.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "生塩ノア",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "生塩ノア.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "石頭DOGE",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "石頭DOGE.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "砂狼シロコ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "砂狼シロコ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "秦心",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "秦心.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "空崎ヒナ(睡衣)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "空崎ヒナ(睡衣).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "空崎ヒナ",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "空崎ヒナ.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "空崎ヒナ(HD 版)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "空崎ヒナ(HD 版).png",
+      "type": "free"
+    },
+    {
+      "localization_name": "簡杜",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "簡杜.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "結月緣",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "結月緣.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "糯糯米",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "糯糯米.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "美優",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "美優.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "聖白蓮",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "聖白蓮.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "芙蘭朵露",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "芙蘭朵露.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "蜜蜂",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "蜜蜂.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "覺",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "覺.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "超天醬",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "超天醬.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "鈴仙・優曇華院",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "鈴仙・優曇華院.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "重音",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "重音.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "陸八魔アル",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "陸八魔アル.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "黃金船",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "黃金船.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "黑子",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "黑子.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "黑鍵芹香",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "黑鍵芹香.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "NoahCoal",
+  "localization_name": "NoahCoal"
+}
