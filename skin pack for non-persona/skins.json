@@ -1,9 +1,6 @@
 {
   "geometry":"geometry.json",
-  "serialize_name":"NoahCoal_Cape",
-  "localization_name":"NoahCoal",
-
-
+  
   "skins": [
     {
       "localization_name": "三角初華",
@@ -12,10 +9,50 @@
       "type": "free"
     },
     {
+      "localization_name": "dewier",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "dewier.png",
+      "cape": "exp_cape.png",
+      "type": "free"
+      
+    },
+    {
+      "localization_name": "Un若葉睦_new_year",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Un若葉睦_new_year.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "河原木 桃香_2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "河原木 桃香_2.png",
+      "cape": "河原木 桃香_2_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Un若葉睦_xchrisrtmas",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Un若葉睦_xchrisrtmas.png",
+      "cape": "Un若葉睦_xchrisrtmas_cape.png",
+      "type": "free"
+    },
+    {
       "localization_name": "suisei",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "suisei.png",
       "cape": "suisei_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "reze",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "reze.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "war_demon",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "war_demon.png",
       "type": "free"
     },
     {

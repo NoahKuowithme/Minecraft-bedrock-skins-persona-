@@ -9,6 +9,14 @@
       "type": "free"
     },
     {
+      "localization_name": "dewier",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "dewier.png",
+      "cape": "exp_cape.png",
+      "type": "free"
+      
+    },
+    {
       "localization_name": "Un若葉睦_new_year",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Un若葉睦_new_year.png",
