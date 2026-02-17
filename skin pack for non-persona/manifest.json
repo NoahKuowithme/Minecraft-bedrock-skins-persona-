@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "name": "§aNoahCoal's §dtexture §c§o§lV10§r§n",
-        "uuid": "de7ce215-63b1-480b-a8cd-269e7d51d434",
+        "uuid": "f8fe3258-6371-4ad1-a8ee-1f9dc2b081cf",
         "version": [
             1,
             11,
@@ -20,7 +20,7 @@
     "modules": [
         {
             "type": "skin_pack",
-            "uuid": "277af8e0-8077-4ff2-9a0f-69b5f2755c01",
+            "uuid": "a60b57f6-143d-4bde-97a7-d1471a40d1ec",
             "version": [
                 1,
                 11,

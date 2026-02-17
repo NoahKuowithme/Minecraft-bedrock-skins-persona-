@@ -23,6 +23,78 @@
       "type": "free"
     },
     {
+      "localization_name": "GirlsBandCry  Nina演出服 （井芹仁菜）哭泣少女乐队",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "GirlsBandCry  Nina演出服 （井芹仁菜）哭泣少女乐队.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iseri nina  井芹仁菜 演出服",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Iseri nina  井芹仁菜 演出服.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kawaragi momoka  河原木桃香  丝袜",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Kawaragi momoka  河原木桃香  丝袜.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mutsumi_color_1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Mutsumi_color_1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mutsumi_奥本海睦",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Mutsumi_奥本海睦.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mutsumi_月之森夏季制服",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Mutsumi_月之森夏季制服.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nina 井芹仁菜3.0",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Nina 井芹仁菜3.0.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "三角初華_Sumimi",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "三角初華_Sumimi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "三角初華_校服",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "三角初華_校服.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "三角初華_私服",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "三角初華_私服.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "井芹仁菜兼容眨眼awa",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "井芹仁菜兼容眨眼awa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "祐天寺若麦",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "祐天寺若麦.png",
+      "type": "free"
+    },
+    {
       "localization_name": "河原木 桃香_2",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "河原木 桃香_2.png",
