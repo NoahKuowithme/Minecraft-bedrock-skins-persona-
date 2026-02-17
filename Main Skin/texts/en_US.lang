@@ -1,8 +1,9 @@
 // ==========================================
 // NoahCoal Skin Pack 整理列表
 // ==========================================
-NoahCoal=§6Collected §aBy §l§bNoahCoal §cAnd §bScofiscofi
-NoahCoal.by=§l§aNoah
+skinpack.NoahCoal=§6Collected §aBy §l§bNoahCoal §cAnd §bScofiscofi
+skinpack.NoahCoal.by=§l§aNoah
+
 
 // --- 樂團系列 (MyGO!!!!! / Ave Mujica) ---
 NoahCoal.若葉睦 = 若葉睦 collected by NoahCoal
