@@ -1,164 +1,162 @@
 // ==========================================
-// NoahCoal Skin Pack 整理列表
+// NoahCoal Skin Pack 繁中優化版
 // ==========================================
-skinpack.NoahCoal=§6Collected §aBy §l§bNoahCoal §cAnd §bScofiscofi
-skinpack.NoahCoal.by=§l§aNoah
 
 
 // --- 樂團系列 (MyGO!!!!! / Ave Mujica) ---
-NoahCoal.若葉睦 = 若葉睦 collected by NoahCoal
-NoahCoal.Un若葉睦 = Un若葉睦 collected by NoahCoal
-NoahCoal.Un若葉睦_new_year = Un若葉睦_new_year collected by NoahCoal
-NoahCoal.Un若葉睦_xchrisrtmas = Un若葉睦_xchrisrtmas collected by NoahCoal
-NoahCoal.Mutsumi_color_1 = Mutsumi_color_1 collected by NoahCoal
-NoahCoal.Mutsumi_奥本海睦 = Mutsumi_奥本海睦 collected by NoahCoal
-NoahCoal.Mutsumi_月之森夏季制服 = Mutsumi_月之森夏季制服 collected by NoahCoal
-NoahCoal.三角初華 = 三角初華 collected by NoahCoal
-NoahCoal.三角初華_Sumimi = 三角初華_Sumimi collected by NoahCoal
-NoahCoal.三角初華_校服 = 三角初華_校服 collected by NoahCoal
-NoahCoal.三角初華_私服 = 三角初華_私服 collected by NoahCoal
-NoahCoal.豐川祥子 = 豐川祥子 collected by NoahCoal
-NoahCoal.祐天寺若麥 = 祐天寺若麥 collected by NoahCoal
-NoahCoal.祐天寺若麦 = 祐天寺若麦 collected by NoahCoal
-NoahCoal.千島愛音 = 千島愛音 collected by NoahCoal
-NoahCoal.soyo = soyo collected by NoahCoal
-NoahCoal.anon = anon collected by NoahCoal
-NoahCoal.raana = raana collected by NoahCoal
+skin.NoahCoal.若葉睦 = 若葉睦
+skin.NoahCoal.Un若葉睦 = 若葉睦 (Un)
+skin.NoahCoal.Un若葉睦_new_year = 若葉睦 (新年)
+skin.NoahCoal.Un若葉睦_xchrisrtmas = 若葉睦 (聖誕)
+skin.NoahCoal.Mutsumi_color_1 = 若葉睦 (配色1)
+skin.NoahCoal.Mutsumi_奥本海睦 = 奧本海睦
+skin.NoahCoal.Mutsumi_月之森夏季制服 = 若葉睦 (夏季制服)
+skin.NoahCoal.三角初華 = 三角初華
+skin.NoahCoal.三角初華_Sumimi = 三角初華 (Sumimi)
+skin.NoahCoal.三角初華_校服 = 三角初華 (校服)
+skin.NoahCoal.三角初華_私服 = 三角初華 (私服)
+skin.NoahCoal.豐川祥子 = 豐川祥子
+skin.NoahCoal.祐天寺若麥 = 祐天寺若麥
+skin.NoahCoal.祐天寺若麦 = 祐天寺若麥 (修正)
+skin.NoahCoal.千島愛音 = 千島愛音
+skin.NoahCoal.soyo = 長崎素世 (Soyo)
+skin.NoahCoal.anon = 千早愛音 (Anon)
+skin.NoahCoal.raana = 要樂奈 (Raana)
 
 // --- 哭泣少女樂隊 (Girls Band Cry) ---
-NoahCoal.井芹 仁菜 = 井芹 仁菜 collected by NoahCoal
-NoahCoal.井芹仁菜兼容眨眼awa = 井芹仁菜兼容眨眼awa collected by NoahCoal
-NoahCoal.Nina 井芹仁菜3.0 = Nina 井芹仁菜3.0 collected by NoahCoal
-NoahCoal.Iseri nina 井芹仁菜 演出服 = Iseri nina 井芹仁菜 演出服 collected by NoahCoal
-NoahCoal.GirlsBandCry Nina演出服 （井芹仁菜）哭泣少女乐队 = GirlsBandCry Nina演出服 （井芹仁菜）哭泣少女乐队 collected by NoahCoal
-NoahCoal.河原木 桃香 = 河原木 桃香 collected by NoahCoal
-NoahCoal.河原木 桃香_2 = 河原木 桃香_2 collected by NoahCoal
-NoahCoal.Kawaragi momoka 河原木桃香 丝袜 = Kawaragi momoka 河原木桃香 丝袜 collected by NoahCoal
-NoahCoal.安和 すばる = 安和 すばる collected by NoahCoal
+skin.NoahCoal.井芹 仁菜 = 井芹仁菜
+skin.NoahCoal.井芹仁菜兼容眨眼awa = 井芹仁菜 (相容眨眼)
+skin.NoahCoal.Nina 井芹仁菜3.0 = 井芹仁菜 3.0
+skin.NoahCoal.Iseri nina 井芹仁菜 演出服 = 井芹仁菜 (演出服)
+skin.NoahCoal.GirlsBandCry Nina演出服 （井芹仁菜）哭泣少女乐队 = 井芹仁菜 (GBC演出服)
+skin.NoahCoal.河原木 桃香 = 河原木桃香
+skin.NoahCoal.河原木 桃香_2 = 河原木桃香 (Ver.2)
+skin.NoahCoal.Kawaragi momoka 河原木桃香 丝袜 = 河原木桃香 (絲襪版)
+skin.NoahCoal.安和 すばる = 安和昂 (Subaru)
 
 // --- 蔚藍檔案 (Blue Archive) ---
-NoahCoal.砂狼シロコ = 砂狼シロコ collected by NoahCoal
-NoahCoal.水白子 = 水白子 collected by NoahCoal
-NoahCoal.黑子 = 黑子 collected by NoahCoal
-NoahCoal.空崎ヒナ = 空崎ヒナ collected by NoahCoal
-NoahCoal.空崎ヒナ(睡衣) = 空崎ヒナ(睡衣) collected by NoahCoal
-NoahCoal.空崎ヒナ(HD版) = 空崎ヒナ(HD版) collected by NoahCoal
-NoahCoal.天童アリス = 天童アリス collected by NoahCoal
-NoahCoal.才羽モモイ = 才羽モモイ collected by NoahCoal
-NoahCoal.才羽ミドリ = 才羽ミドリ collected by NoahCoal
-NoahCoal.生塩ノア = 生塩ノア collected by NoahCoal
-NoahCoal.優香 = 優香 collected by NoahCoal
-NoahCoal.彌香 = 彌香 collected by NoahCoal
-NoahCoal.小鳥遊ホシノ = 小鳥遊ホシノ collected by NoahCoal
-NoahCoal.陸八魔アル = 陸八魔アル collected by NoahCoal
-NoahCoal.黑鍵芹香 = 黑鍵芹香 collected by NoahCoal
-NoahCoal.美優 = 美優 collected by NoahCoal
-NoahCoal.瑪莉 = 瑪莉 collected by NoahCoal
-NoahCoal.柚子 = 柚子 collected by NoahCoal
-NoahCoal.彩奈 = 彩奈 collected by NoahCoal
-NoahCoal.橘ヒカリ = 橘ヒカリ collected by NoahCoal
-NoahCoal.尾刃カンナ = 尾刃カンナ collected by NoahCoal
-NoahCoal.狼師 = 狼師 collected by NoahCoal
+skin.NoahCoal.砂狼シロコ = 砂狼白子
+skin.NoahCoal.水白子 = 砂狼白子 (泳裝)
+skin.NoahCoal.黑子 = 砂狼白子 (漆黑)
+skin.NoahCoal.空崎ヒナ = 空崎希奈
+skin.NoahCoal.空崎ヒナ(睡衣) = 空崎希奈 (睡衣)
+skin.NoahCoal.空崎ヒナ(HD版) = 空崎希奈 (HD)
+skin.NoahCoal.天童アリス = 天童愛麗絲
+skin.NoahCoal.才羽モモイ = 才羽桃井
+skin.NoahCoal.才羽ミドリ = 才羽綠
+skin.NoahCoal.生塩ノア = 生鹽諾亞
+skin.NoahCoal.優香 = 早瀨優香
+skin.NoahCoal.彌香 = 聖園彌香
+skin.NoahCoal.小鳥遊ホシノ = 小鳥遊星野
+skin.NoahCoal.陸八魔アル = 陸八魔亞瑠
+skin.NoahCoal.黑鍵芹香 = 黑見茜香
+skin.NoahCoal.美優 = 霞澤美優
+skin.NoahCoal.瑪莉 = 伊落瑪莉
+skin.NoahCoal.柚子 = 花岡柚子
+skin.NoahCoal.彩奈 = 彩奈 (Arona)
+skin.NoahCoal.橘ヒカリ = 橘光 (Hikari)
+skin.NoahCoal.尾刃カンナ = 尾刃環奈
+skin.NoahCoal.狼師 = 狼師 (Sensei)
 
 // --- 葬送的芙莉蓮 ---
-NoahCoal.芙莉蓮 = 芙莉蓮 collected by NoahCoal
-NoahCoal.芙莉蓮(閉眼) = 芙莉蓮(閉眼) collected by NoahCoal
-NoahCoal.費倫 = 費倫 collected by NoahCoal
-NoahCoal.欣梅爾 = 欣梅爾 collected by NoahCoal
+skin.NoahCoal.芙莉蓮 = 芙莉蓮
+skin.NoahCoal.芙莉蓮(閉眼) = 芙莉蓮 (閉眼)
+skin.NoahCoal.費倫 = 費倫
+skin.NoahCoal.欣梅爾 = 欣梅爾
 
 // --- 東方 Project ---
-NoahCoal.博麗靈夢(舊版) = 博麗靈夢(舊版) collected by NoahCoal
-NoahCoal.芙蘭朵露 = 芙蘭朵露 collected by NoahCoal
-NoahCoal.レミリア・スカーレット = レミリア・スカーレット collected by NoahCoal
-NoahCoal.古明地さとり = 古明地さとり collected by NoahCoal
-NoahCoal.覺 = 覺 collected by NoahCoal
-NoahCoal.戀戀 = 戀戀 collected by NoahCoal
-NoahCoal.伊吹萃香 = 伊吹萃香 collected by NoahCoal
-NoahCoal.伊吹萃香(作者不一樣) = 伊吹萃香(作者不一樣) collected by NoahCoal
-NoahCoal.秦心 = 秦心 collected by NoahCoal
-NoahCoal.聖白蓮 = 聖白蓮 collected by NoahCoal
-NoahCoal.洩矢諏訪子 = 洩矢諏訪子 collected by NoahCoal
-NoahCoal.因幡てゐ = 因幡てゐ collected by NoahCoal
-NoahCoal.鈴仙・優曇華院 = 鈴仙・優曇華院 collected by NoahCoal
+skin.NoahCoal.博麗靈夢(舊版) = 博麗靈夢 (舊版)
+skin.NoahCoal.芙蘭朵露 = 芙蘭朵露
+skin.NoahCoal.レミリア・スカーレット = 蕾米莉亞·斯卡蕾特
+skin.NoahCoal.古明地さとり = 古明地覺
+skin.NoahCoal.覺 = 覺
+skin.NoahCoal.戀戀 = 古明地戀
+skin.NoahCoal.伊吹萃香 = 伊吹萃香
+skin.NoahCoal.伊吹萃香(作者不一樣) = 伊吹萃香 (Alternative)
+skin.NoahCoal.秦心 = 秦心
+skin.NoahCoal.聖白蓮 = 聖白蓮
+skin.NoahCoal.洩矢諏訪子 = 洩矢諏訪子
+skin.NoahCoal.因幡てゐ = 因幡帝
+skin.NoahCoal.鈴仙・優曇華院 = 鈴仙·優曇華院·因幡
 
 // --- 電鋸人 (Chainsaw Man) ---
-NoahCoal.パワー = パワー collected by NoahCoal
-NoahCoal.マキマ = マキマ collected by NoahCoal
-NoahCoal.reze = reze collected by NoahCoal
-NoahCoal.war_demon = war_demon collected by NoahCoal
+skin.NoahCoal.パワー = 帕瓦 (Power)
+skin.NoahCoal.マキマ = 真紀真 (Makima)
+skin.NoahCoal.reze = 蕾潔 (Reze)
+skin.NoahCoal.war_demon = 戰爭惡魔
 
 // --- 虛擬歌手 (Vocaloid / Hololive) ---
-NoahCoal.初音未來 = 初音未來 collected by NoahCoal
-NoahCoal.初音 = 初音 collected by NoahCoal
-NoahCoal.IA = IA collected by NoahCoal
-NoahCoal.重音 = 重音 collected by NoahCoal
-NoahCoal.結月緣 = 結月緣 collected by NoahCoal
-NoahCoal.琴葉茜 = 琴葉茜 collected by NoahCoal
-NoahCoal.がうる = がうる collected by NoahCoal
+skin.NoahCoal.初音未來 = 初音未來
+skin.NoahCoal.初音 = 初音
+skin.NoahCoal.IA = IA
+skin.NoahCoal.重音 = 重音 Teto
+skin.NoahCoal.結月緣 = 結月緣
+skin.NoahCoal.琴葉茜 = 琴葉茜
+skin.NoahCoal.がうる = Gawr Gura
 
 // --- 賽馬娘 (Umamusume) ---
-NoahCoal.黃金船 = 黃金船 collected by NoahCoal
-NoahCoal.サトノダイヤモンド = サトノダイヤモンド collected by NoahCoal
-NoahCoal.ツイン・ターボ = ツイン・ターボ collected by NoahCoal
-NoahCoal.トウカイテイオー = トウカイテイオー collected by NoahCoal
-NoahCoal.春烏拉拉 = 春烏拉拉 collected by NoahCoal
+skin.NoahCoal.黃金船 = 黃金船 (Gold Ship)
+skin.NoahCoal.サトノダイヤモンド = 里見光鑽
+skin.NoahCoal.ツイン・ターボ = 雙渦輪
+skin.NoahCoal.トウカイテイオー = 東海帝王
+skin.NoahCoal.春烏拉拉 = 春烏拉拉
 
 // --- 孤獨搖滾 ---
-NoahCoal.後藤一里Bocchi = 後藤一里Bocchi collected by NoahCoal
-NoahCoal.後藤一里Bocchi戴墨鏡 = 後藤一里Bocchi戴墨鏡 collected by NoahCoal
-NoahCoal.喜多郁代 = 喜多郁代 collected by NoahCoal
-NoahCoal.廣井菊理 = 廣井菊理 collected by NoahCoal
+skin.NoahCoal.後藤一里Bocchi = 後藤一里 (小波奇)
+skin.NoahCoal.後藤一里Bocchi戴墨鏡 = 後藤一里 (墨鏡版)
+skin.NoahCoal.喜多郁代 = 喜多郁代
+skin.NoahCoal.廣井菊理 = 廣井菊理
 
 // --- 其他動漫與角色 ---
-NoahCoal.艾莉雅 = 艾莉雅 collected by NoahCoal
-NoahCoal.芙拉蒂蕾娜·米利杰 = 芙拉蒂蕾娜·米利杰 collected by NoahCoal
-NoahCoal.艾米莉婭 = 艾米莉婭 collected by NoahCoal
-NoahCoal.錦木千束 = 錦木千束 collected by NoahCoal
-NoahCoal.井之上瀧奈 = 井之上瀧奈 collected by NoahCoal
-NoahCoal.拉芙塔莉雅 = 拉芙塔莉雅 collected by NoahCoal
-NoahCoal.ZeroTwo = ZeroTwo collected by NoahCoal
-NoahCoal.小圓 = 小圓 collected by NoahCoal
-NoahCoal.超天醬 = 超天醬 collected by NoahCoal
-NoahCoal.可莉 = 可莉 collected by NoahCoal
-NoahCoal.智乃 = 智乃 collected by NoahCoal
-NoahCoal.喵帕斯 = 喵帕斯 collected by NoahCoal
-NoahCoal.Cid-Kagenou-Shadow = Cid-Kagenou-Shadow collected by NoahCoal
+skin.NoahCoal.艾莉雅 = 艾莉雅 (不時輕聲說俄語)
+skin.NoahCoal.芙拉蒂蕾娜·米利杰 = 芙拉蒂蕾娜 (86)
+skin.NoahCoal.艾米莉婭 = 艾米莉婭 (Re:0)
+skin.NoahCoal.錦木千束 = 錦木千束
+skin.NoahCoal.井之上瀧奈 = 井之上瀧奈
+skin.NoahCoal.拉芙塔莉雅 = 拉芙塔莉雅
+skin.NoahCoal.ZeroTwo = 02 (DARLING in the FRANXX)
+skin.NoahCoal.小圓 = 鹿目圓
+skin.NoahCoal.超天醬 = 超天醬 (NEEDY GIRL OVERDOSE)
+skin.NoahCoal.可莉 = 可莉 (Genshin)
+skin.NoahCoal.智乃 = 香風智乃
+skin.NoahCoal.喵帕斯 = 宮內蓮華 (喵帕斯)
+skin.NoahCoal.Cid-Kagenou-Shadow = 席德·卡蓋諾 (闇影)
 
 // --- 系統 / 遊戲 / 原創 ---
-NoahCoal.林克 = 林克 collected by NoahCoal
-NoahCoal.ump45 = ump45 collected by NoahCoal
-NoahCoal.steve2 = steve2 collected by NoahCoal
-NoahCoal.doggy_steve = doggy_steve collected by NoahCoal
-NoahCoal.valliger = valliger collected by NoahCoal
-NoahCoal.valliger2 = valliger2 collected by NoahCoal
-NoahCoal.valliger3 = valliger3 collected by NoahCoal
-NoahCoal.valliger4 = valliger4 collected by NoahCoal
-NoahCoal.石頭DOGE = 石頭DOGE collected by NoahCoal
-NoahCoal.蜜蜂 = 蜜蜂 collected by NoahCoal
-NoahCoal.Duck = Duck collected by NoahCoal
-NoahCoal.idk = idk collected by NoahCoal
-NoahCoal.idk2 = idk2 collected by NoahCoal
-NoahCoal.idk3 = idk3 collected by NoahCoal
-NoahCoal.idk4 = idk4 collected by NoahCoal
-NoahCoal.idk5 = idk5 collected by NoahCoal
-NoahCoal.idk6 = idk6 collected by NoahCoal
-NoahCoal.taki = taki collected by NoahCoal
-NoahCoal.dewier = dewier collected by NoahCoal
+skin.NoahCoal.林克 = 林克 (Link)
+skin.NoahCoal.ump45 = UMP45
+skin.NoahCoal.steve2 = 史蒂夫 Ver.2
+skin.NoahCoal.doggy_steve = 狗狗史蒂夫
+skin.NoahCoal.valliger = 村民 (Valliger)
+skin.NoahCoal.valliger2 = 村民 (Valliger 2)
+skin.NoahCoal.valliger3 = 村民 (Valliger 3)
+skin.NoahCoal.valliger4 = 村民 (Valliger 4)
+skin.NoahCoal.石頭DOGE = 石頭 Doge
+skin.NoahCoal.蜜蜂 = 蜜蜂 (Bee)
+skin.NoahCoal.Duck = 鴨子
+skin.NoahCoal.idk = 未知角色 (IDK 1)
+skin.NoahCoal.idk2 = 未知角色 (IDK 2)
+skin.NoahCoal.idk3 = 未知角色 (IDK 3)
+skin.NoahCoal.idk4 = 未知角色 (IDK 4)
+skin.NoahCoal.idk5 = 未知角色 (IDK 5)
+skin.NoahCoal.idk6 = 未知角色 (IDK 6)
+skin.NoahCoal.taki = Taki
+skin.NoahCoal.dewier = Dewier
 
 // --- 其他作者 / 特別款 ---
-NoahCoal._ArseniyZTV_ = _ArseniyZTV__ collected by NoahCoal
-NoahCoal.Allistayrian = Allistayrian collected by NoahCoal
-NoahCoal.AsunaIchinoseTR = AsunaIchinoseTR collected by NoahCoal
-NoahCoal.CalCobalt = CalCobalt collected by NoahCoal
-NoahCoal.FuyajouRuri = FuyajouRuri collected by NoahCoal
-NoahCoal.Hatfessor = Hatfessor collected by NoahCoal
-NoahCoal.hnoq = hnoq collected by NoahCoal
-NoahCoal.INKY__OwO = INKY__OwO collected by NoahCoal
-NoahCoal.Kjo_Coco = Kjo_Coco collected by NoahCoal
-NoahCoal.limor233 = limor233 collected by NoahCoal
-NoahCoal.promlument = promlument collected by NoahCoal
-NoahCoal.Sendai = Sendai collected by NoahCoal
-NoahCoal.TheMagmaBoy = TheMagmaBoy collected by NoahCoal
-NoahCoal.Topbowlboy = Topbowlboy collected by NoahCoal
-NoahCoal.gato-bolado-mcpe = gato-bolado-mcpe collected by NoahCoal
-NoahCoal.mcpe = mcpe collected by NoahCoal
+skin.NoahCoal._ArseniyZTV_ = ArseniyZTV
+skin.NoahCoal.Allistayrian = Allistayrian
+skin.NoahCoal.AsunaIchinoseTR = 一之瀨明日奈 (TR)
+skin.NoahCoal.CalCobalt = CalCobalt
+skin.NoahCoal.FuyajouRuri = 不夜城琉璃
+skin.NoahCoal.Hatfessor = Hatfessor
+skin.NoahCoal.hnoq = Hnoq
+skin.NoahCoal.INKY__OwO = INKY OwO
+skin.NoahCoal.Kjo_Coco = Kjo Coco
+skin.NoahCoal.limor233 = Limor233
+skin.NoahCoal.promlument = Promlument
+skin.NoahCoal.Sendai = 川內 (Sendai)
+skin.NoahCoal.TheMagmaBoy = MagmaBoy
+skin.NoahCoal.Topbowlboy = Topbowlboy
+skin.NoahCoal.gato-bolado-mcpe = Gato Bolado (MCPE)
+skin.NoahCoal.mcpe = MCPE 特別款
