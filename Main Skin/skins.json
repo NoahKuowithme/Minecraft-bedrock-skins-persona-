@@ -1,4 +1,7 @@
 {
+  
+  "serialize_name": "NoahCoal",
+  "localization_name": "NoahCoal",
   "geometry":"geometry.json",
   
   "skins": [
@@ -890,7 +893,5 @@
       "texture": "黑鍵芹香.png",
       "type": "free"
     }
-  ],
-  "serialize_name": "NoahCoal",
-  "localization_name": "NoahCoal"
+  ]
 }
