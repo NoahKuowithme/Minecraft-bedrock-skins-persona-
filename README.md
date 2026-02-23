@@ -11,3 +11,7 @@ C:\Users\user\AppData\Roaming\Minecraft Bedrock\premium_cache\skin_packs\huidssh
 Press Enter to proceed.
 
 Relaunch the game.
+-----
+The geometry was replaced by another one.
+In this case, you can let your skin animation just like zombie raising their hands.
+----- 
